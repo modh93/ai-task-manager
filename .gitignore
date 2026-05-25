@@ -45,3 +45,13 @@ htmlcov/
 
 # Type checking
 .mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Secrets
+*.pem
+*.key
+
+.claude
+.codex
